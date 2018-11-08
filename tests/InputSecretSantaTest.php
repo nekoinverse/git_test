@@ -4,6 +4,7 @@ declare(strict_types=1);
 namespace Tests;
 
 require_once(__DIR__ . "/../src/InputSecretSanta.php");
+
 use PHPUnit\Framework\TestCase;
 use SecretSanta\InputSecretSanta;
 
